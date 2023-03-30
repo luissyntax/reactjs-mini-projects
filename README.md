@@ -30,4 +30,5 @@ Isso iniciará o servidor de desenvolvimento e abrirá o projeto em seu navegado
 ## Lista de projetos:
 
 1. **Gerador de QR Code** - Um gerador de QR code é um projeto que permite criar códigos QR para qualquer tipo de informação.
+2. **Calculadora de IMC** - O projeto é uma calculadora de IMC desenvolvida em ReactJS com TypeScript. O usuário insere seu peso e altura, o sistema calcula o IMC e fornece uma resposta com o valor e uma imagem para classificação.
 
